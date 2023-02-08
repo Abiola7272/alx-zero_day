@@ -1,1 +1,1 @@
-git checkout masterecho >> README.md touch up_to_date echo > up_to_date
+git pull
